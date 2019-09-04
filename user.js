@@ -932,3 +932,8 @@ user_pref("media.navigator.enabled",				true);
 user_pref("media.navigator.video.enabled",			true);
 user_pref("media.getusermedia.screensharing.enabled",		true);
 user_pref("media.getusermedia.audiocapture.enabled",		true);
+
+
+//CUSTOM
+user_pref("toolkit.cosmeticAnimations.enabled", false);
+user_pref("browser.zoom.siteSpecific", false);
